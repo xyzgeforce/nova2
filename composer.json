@@ -63,5 +63,5 @@
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
-  "version": "0.0.1"
+  "version": "2.0.0"
 }
